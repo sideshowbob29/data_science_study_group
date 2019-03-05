@@ -1,3 +1,5 @@
+##script for Chapter 1 of Zumel and Mount
+
 #importing libraries that might be useful
 library(tidyverse)
 library(rpart)
